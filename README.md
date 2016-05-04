@@ -1,2 +1,5 @@
 # my-bio
-Description of Ryoko
+
+Biography of Ryoko
+
+I am Ryoko Nagata.
